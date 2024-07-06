@@ -16,9 +16,10 @@ This project contains an automation test using Playwright for the site [Eten UI]
    cd <repository-directory>
 
 2. **Install Playwright
+   
+   ```sh
+   npm init playwright@latest
 
-  ```sh
-  npm init playwright@latest
 
 3. **Execute Playwright
 
